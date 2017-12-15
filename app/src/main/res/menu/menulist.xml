@@ -9,5 +9,8 @@
  <item
         android:id="@+id/insertData"
         android:title="insertData" />
+<item
+        android:id="@+id/uplodeImage"
+        android:title="uplodeImage" />
 
 </menu>

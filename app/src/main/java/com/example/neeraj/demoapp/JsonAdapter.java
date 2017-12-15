@@ -33,7 +33,7 @@ public class JsonAdapter extends RecyclerView.Adapter<JsonAdapter.MyViewHolder> 
        holder.tv_email.setText(arrayList.get(position).getEmail());
        holder.tv_mobile.setText(arrayList.get(position).getMobile());
     }
-
+   //hi
     @Override
     public int getItemCount() {
         return arrayList.size();

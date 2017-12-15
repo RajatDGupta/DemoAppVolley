@@ -125,6 +125,10 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent2 = new Intent(MainActivity.this, InsertDataToServer.class);
                 startActivity(intent2);
                 return true;
+            case R.id.uplodeImage:
+                Intent intent3 = new Intent(MainActivity.this, UplodeImg.class);
+                startActivity(intent3);
+                return true;
             default:
                 return super.onOptionsItemSelected(item);
         }

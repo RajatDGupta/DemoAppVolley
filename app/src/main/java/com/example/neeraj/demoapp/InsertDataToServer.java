@@ -60,7 +60,6 @@ public class InsertDataToServer extends AppCompatActivity {
                             Toast.makeText(InsertDataToServer.this, jsonObject.getString("code")+" "+
                                     jsonObject.getString("msg"), Toast.LENGTH_SHORT).show();
 
-                            
 
                         } catch (JSONException e) {
                             e.printStackTrace();
