@@ -10,6 +10,6 @@ public class Some extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_some);
 
-        //hi neeraj
+        //hi neeraj by
     }
 }
