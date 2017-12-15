@@ -23,7 +23,6 @@
         <activity android:name=".JsonArrayClass" />
         <activity android:name=".InsertDataToServer" />
         <activity android:name=".UplodeImg" />
-        <activity android:name=".Some"></activity>
     </application>
 
 </manifest>
