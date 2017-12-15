@@ -47,6 +47,7 @@ public class UplodeImg extends AppCompatActivity implements View.OnClickListener
 
     }
 
+    //init
     private void init() {
 
         imageView = findViewById(R.id.imgView);

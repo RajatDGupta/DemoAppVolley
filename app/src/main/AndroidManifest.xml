@@ -3,7 +3,7 @@
     package="com.example.neeraj.demoapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
@@ -22,7 +22,8 @@
         <activity android:name=".JsonObjectFetch" />
         <activity android:name=".JsonArrayClass" />
         <activity android:name=".InsertDataToServer" />
-        <activity android:name=".UplodeImg"></activity>
+        <activity android:name=".UplodeImg" />
+        <activity android:name=".Some"></activity>
     </application>
 
 </manifest>
