@@ -42,6 +42,7 @@ public class UplodeImg extends AppCompatActivity implements View.OnClickListener
         setContentView(R.layout.activity_uplode_img);
 
         init();
+
         bt_imgPick.setOnClickListener(this);
         bt_img_uplode.setOnClickListener(this);
 
